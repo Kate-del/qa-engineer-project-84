@@ -35,7 +35,7 @@
     Проверка страницы товара
   status: pass
 
-  - summary: |
+- summary: |
     Проверка добавления товара в корзину
   status: pass
 
