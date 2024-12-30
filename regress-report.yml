@@ -2,55 +2,55 @@
 test-cases:
   - summary: |
       Проверка скорости загрузки главной страницы
- status: pass
+    status: pass
 
   - summary: |
       Проверка удобства навигации
- status: pass 
+    status: pass 
 
   - summary: |
       Проверка работы HTTPS
- status: pass 
+    status: pass 
 
   - summary: |
       Проверка совместимости с последними версиями браузеров
-  status: pass
+    status: pass
 
   - summary: |
       Проверка фильтрации товаров по цене
-  status: pass
+    status: pass
 
   - summary: |
       Проверка страницы товара
-  status: pass
+    status: pass
 
   - summary: |
       Проверка добавления товара в корзину
-  status: pass
+    status: pass
 
   - summary: |
       Проверка удаления товара из корзины
-  status: pass
+    status: pass
 
   - summary: |
       Проверка корректности отображения результатов поиска по ключевому слову
-  status: pass 
+    status: pass 
 
   - summary: |
       Неккоректно работает кнопка "Категория"
-  status: fail
+    status: fail
 
   - summary: |
       В фильтрации "Язык" нет изображения флага Английского языка
-  status: fail
+    status: fail
 
   - summary: |
       Неккоректно работает кнопка "Язык" при выборе "Русский" 
-  status: fail
+    status: fail
 
   - summary: |
       Сайт не сохраняет добавленный товар  
-  status: fail 
+    status: fail 
 
 bugreports:
 - summary: |
